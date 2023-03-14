@@ -1,4 +1,4 @@
-<h3 align="center">A passionate backend developer from Ukraine.</h3>
+<h3 align="center">I'm passionate backend developer from Ukraine.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
